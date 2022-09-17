@@ -8,8 +8,6 @@ I’m an undergraduate student from **Shanghai Jiao Tong University**, majoring 
 
 ---
 
-<br/>
-
 # Projects
 
 ## My Firework 🎆
@@ -22,8 +20,6 @@ My Firework is an **AR firework education project** in collaboration with the Sh
 
 To see more about this project, please click [here](https://www.echoyixiao.cn/mySite/MyFirewroks/index.html)
 
-
-<br/>
 
 
 ## Gobang AI 🎲
