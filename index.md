@@ -14,15 +14,39 @@ I’m an undergraduate student from **Shanghai Jiao Tong University**, majoring 
 
 ![](./assets/img/firework.jpg)
 
-My Firework is an **AR firework education project** in collaboration with the Shanghai Science and Technology Museum. It's mainly developed using **Unity Engine**, with an easy back-end component to support data transmission. This project won the **2nd prize** in The 9th [China Digital Media Technology and Creativity Competition](http://mit.caai.cn/).
+My Firework is an **AR Firework Education Project** in collaboration with the Shanghai Science and Technology Museum. It's mainly developed using **Unity Engine**, with an easy back-end component to support data transmission. This project won the **2nd Prize** in The 9th [China Digital Media Technology and Creativity Competition](http://mit.caai.cn/).
 
 
 
-To see more about this project, please click [here](https://www.echoyixiao.cn/mySite/MyFirewroks/index.html)
+To see more about this project, please click [here](https://www.echoyixiao.cn/mySite/MyFirewroks/index.html).
+
+
+
+## Snake 🐍
+
+![](./assets/img/snake.png)
+
+It's a normal snake game developed with **Qt**. In addition to the normal functionality, it adds some other features. The UI of this project is designed by myself using Photoshop with icons from [Iconfont](https://www.iconfont.cn/).
+
+
+
+Click [here](https://github.com/Edersnow/SJTU_2019SE_Courses/tree/master/SEP(Software%20Engineering%20Practice)/proj1) to see this project and its DevelopDoc.
 
 
 
 ## Gobang AI 🎲
+
+![](./assets/img/gobang.jpeg)
+
+This is an naive Gobang AI implemented mainly using the **Minimax Search Algorithm**. The front-end is built using the **Flask Framework** in python and the UI is designed by myself using Photoshop.
+
+
+
+To see the project, please click [here](https://github.com/Edersnow/Gobang).
+
+
+
+
 
 
 
