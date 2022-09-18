@@ -58,7 +58,7 @@ To see the project, please click [here](https://github.com/Edersnow/Gobang).
 
 
 
-~~The only reason why there are soooooo many digital media project is that they are easier to be displayed (maybe)~~
+~~*The only reason why there are soooooo many digital media project is that they are easier to be displayed (maybe)*~~
 
 
 
