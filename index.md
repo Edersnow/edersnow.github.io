@@ -22,6 +22,18 @@ To see more about this project, please click [here](https://www.echoyixiao.cn/my
 
 
 
+## Poor Monopoly 🏠
+
+![](./assets/img/monopoly.png)
+
+Poor Monopoly is a **multi-players** 3D monopoly game project built with **Unity Engine**. It provides custom map function and some characters with different skills.
+
+
+
+Click [here](https://github.com/Edersnow/SJTU_2019SE_Courses/tree/master/PPSE(Principles%20and%20Practice%20of%20Software%20Engineering)) to see the project's bundle.
+
+
+
 ## Snake 🐍
 
 ![](./assets/img/snake.png)
