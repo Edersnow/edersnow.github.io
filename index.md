@@ -56,7 +56,15 @@ This is an naive Gobang AI implemented mainly using the **Minimax Search Algorit
 
 To see the project, please click [here](https://github.com/Edersnow/Gobang).
 
+---
 
+# Honors
+
++ **Meritorious Winner**, Mathematical Contest In Modeling (MCM) 2022
++ **Silver Award**, ”Internet+” College Student Innovation and Entrepreneurship Competition (Shanghai)
++ **Zhiyuan Honor Scholarship**, Zhiyuan College, Shanghai Jiao Tong University
++ **2nd Prize**, The 9th China Digital Media Technology and Creativity Competition
++ **Honorable Mention**, Mathematical Contest in Modeling (MCM) 2021
 
 
 
