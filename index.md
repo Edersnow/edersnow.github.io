@@ -56,6 +56,12 @@ This is an naive Gobang AI implemented mainly using the **Minimax Search Algorit
 
 To see the project, please click [here](https://github.com/Edersnow/Gobang).
 
+
+
+~~The only reason why there are soooooo many digital media project is that they are easier to be displayed (maybe)~~
+
+
+
 ---
 
 # Honors
@@ -66,7 +72,7 @@ To see the project, please click [here](https://github.com/Edersnow/Gobang).
 + **2nd Prize**, The 9th China Digital Media Technology and Creativity Competition
 + **Honorable Mention**, Mathematical Contest in Modeling (MCM) 2021
 
-
+<br/>
 
 
 
